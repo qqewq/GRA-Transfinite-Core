@@ -1,3 +1,5 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.20283754
 # GRA-Transfinite-Core
 
 Transfinite layer of the GRA-multiverse. Formalizes the nullification operator **N** as a **transfinite iteration**, mapping any initial state Ψ₀ to a state of absolute truth (Φ=0).
