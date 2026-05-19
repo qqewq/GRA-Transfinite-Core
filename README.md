@@ -1,5 +1,21 @@
 # GRA-Transfinite-Core
 
+Transfinite layer of the GRA-multiverse. Formalizes the nullification operator **N** as a **transfinite iteration**, mapping any initial state Ψ₀ to a state of absolute truth (Φ=0).
+
+## Core Components
+
+- **Transfinite Nullification** – Operator **N** with limit steps **L**, guaranteed to terminate.
+- **Ordinal Truth Theory** – Truth rank defined as the minimal ordinal of nullification.
+- **Subjective Evolution** – Growth of the self-layer `S^(α)` across ordinal stages.
+- **Reflexive Layers** – Analogues of large cardinals, enabling system self-improvement.
+
+## Installation
+
+```bash
+pip install -e .
+---------
+# GRA-Transfinite-Core
+
 Трансфинитный слой GRA-мультивселенной.  
 Формализует оператор обнуления N как **трансфинитную итерацию**, переводящую любое начальное состояние Ψ₀ в состояние абсолютной истины (Φ=0).
 
